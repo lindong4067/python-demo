@@ -3,7 +3,7 @@
 import os, sqlite3
 
 # 清库
-db_file = os.path.join(os.path.dirname(__file__), 'test.db')
+db_file = os.path.join(os.path.dirname(__file__), '../test.db')
 if os.path.isfile(db_file):
     os.remove(db_file)
 
