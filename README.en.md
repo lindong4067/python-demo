@@ -1,8 +1,13 @@
 # python-demo
 
 #### Description
-Python learning
+Python learning notes
 
+#### Understanding Python
+
+[Part 1 Getting Start](./understanding_python/Part%201%20Getting%20Start.md)
+
+[Part 2 Basics](./understanding_python/Part%202%20Basics.md)
 #### Software Architecture
 Software architecture description
 
